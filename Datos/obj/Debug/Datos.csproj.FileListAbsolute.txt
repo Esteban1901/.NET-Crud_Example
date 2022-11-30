@@ -1,0 +1,14 @@
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\Datos.dll.config
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\Datos.dll
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\Datos.pdb
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\EntityFramework.dll
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\EntityFramework.xml
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\esteb\source\repos\Estudiando\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+c:\users\esteb\source\repos\Estudiando\Datos\obj\Debug\Datos.csproj.CopyComplete
+c:\users\esteb\source\repos\Estudiando\Datos\obj\Debug\Datos.dll
+c:\users\esteb\source\repos\Estudiando\Datos\obj\Debug\Datos.pdb
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\TareasPendientes.mdf
+c:\users\esteb\source\repos\Estudiando\Datos\bin\Debug\TareasPendientes_log.ldf
+c:\users\esteb\source\repos\Estudiando\Datos\obj\Debug\Datos.csprojAssemblyReference.cache

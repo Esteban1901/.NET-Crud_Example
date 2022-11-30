@@ -1,0 +1,17 @@
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\Negocio.dll.config
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\Negocio.dll
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\Negocio.pdb
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\Datos.dll
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\EntityFramework.dll
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\Datos.pdb
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\Datos.dll.config
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\EntityFramework.xml
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\esteb\source\repos\Estudiando\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+c:\users\esteb\source\repos\Estudiando\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+c:\users\esteb\source\repos\Estudiando\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+c:\users\esteb\source\repos\Estudiando\Negocio\obj\Debug\Negocio.dll
+c:\users\esteb\source\repos\Estudiando\Negocio\obj\Debug\Negocio.pdb
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\TareasPendientes.mdf
+c:\users\esteb\source\repos\Estudiando\Negocio\bin\Debug\TareasPendientes_log.ldf
